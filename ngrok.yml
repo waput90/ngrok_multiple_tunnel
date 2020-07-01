@@ -1,0 +1,9 @@
+authtoken: XXXXXXXXXXXXXXXXXX
+
+tunnels:
+  tcp_demo:
+      proto: http
+      addr: 80
+  tcp_demo:
+      proto: http
+      addr: 8080
